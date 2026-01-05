@@ -1,0 +1,13 @@
+{
+  "name": "ai-muhandis-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.0",
+    "groq-sdk": "^0.3.3",
+    "dotenv": "^16.3.1"
+  }
+}
